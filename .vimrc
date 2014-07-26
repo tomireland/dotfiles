@@ -6,7 +6,7 @@ syntax enable
 " Set terminal colours
 set t_Co=256
 
-" Light solarized scheme
+" Light solarized theme
 set background=light
 colorscheme solarized
 
