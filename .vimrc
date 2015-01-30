@@ -22,3 +22,15 @@ set wrap
 set linebreak
 set nolist
 set smartindent
+
+" Search
+set hlsearch
+set incsearch
+
+" Bubble single lines
+nmap <C-k> ddkP
+nmap <C-j> ddp
+
+" Bubble multiple lines
+vnoremap <C-k> xkP`[V`]
+vnoremap <C-j> xp`[V`]bubble multiple lines
