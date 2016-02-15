@@ -1,2 +1,5 @@
 # Ignore .swp files created when editing in Vim
 *.swp
+
+# Uncomment the line below to ignore local changes to .bash_profile when used on a specific machine.
+# .bash_profile
